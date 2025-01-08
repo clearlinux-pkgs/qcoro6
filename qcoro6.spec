@@ -7,7 +7,7 @@
 #
 Name     : qcoro6
 Version  : 0.10.0
-Release  : 3
+Release  : 4
 URL      : https://github.com/danvratil/qcoro/archive/v0.10.0/qcoro-0.10.0.tar.gz
 Source0  : https://github.com/danvratil/qcoro/archive/v0.10.0/qcoro-0.10.0.tar.gz
 Summary  : No detailed summary available
